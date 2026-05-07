@@ -1,13 +1,5 @@
-import Greetings from "./components/Greetings";
-import Add from "./components/Add";
-
-const App = () => {
-  return (
-    <>
-      <Greetings />
-      <Add />
-    </>
-  );
+const Add = () => {
+  return <div>Add</div>;
 };
 
-export default App;
+export default Add;

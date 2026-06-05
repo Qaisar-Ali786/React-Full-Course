@@ -7,7 +7,7 @@ open-source refer to any type of software or basically anything where source cod
 what is library?
 library is a collection of code that developer can used to perform a common task or to add specific functionality to their application.
 
-the UI is the means through which the user interact with our application.
+the UI is the means through which the user interact with our application.............
 
 developed by facebook in 2011?
 react is the most popular, powerful front-end library developed and sponsored by facebook
